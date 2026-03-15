@@ -1,0 +1,64 @@
+/*                                                                                                              */
+/*                                                                                                              */
+/*                                                 @@@@@@@@@@@@@@                                               */
+/*                                 @@@@@@@@@@@@@@@@@@          @@@@@@@@@@@@@@@                                  */
+/*                            @@@@@@@@@@@@@      @@              @@      @@@@@@@@@@@@@                          */
+/*                       @@@@@     @@@@        @@                  @@        @@@@     @@@@@                     */
+/*                   @@@        @@@          @@                      @@         @@@        @@@                  */
+/*                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@               */
+/*            @@@@          @@             @@                          @@            @@         @@@@            */
+/*          @@@           @@              @@                            @@             @@          @@@          */
+/*        @@@            @@               @@                            @@              @@           @@@        */
+/*       @@                                                                                            @@       */
+/*      @@                                                                                              @@      */
+/*     @@            @@           @@         @@  @@           @@   @@@@@@@@@@@@  @@@        @@           @@     */
+/*    @@             @@           @@         @@  @@@@       @@@@  @@@@@@  @@@@@@ @@@@@      @@            @@    */
+/*    @              @@           @@         @@  @@@@@     @@@@@  @@@@@    @@@@@ @@  @@@    @@             @    */
+/*    @              @@           @@         @@  @@  @@@  @@@ @@  @@@@      @@@@ @@    @@@@ @@             @    */
+/*    @              @@           @@         @@  @@   @@@@@@  @@  @@@@@    @@@@@ @@      @@@@@             @    */
+/*    @              @@@@@@@@@@@@ \@@@@@@@@@@@/  @@    @@@@   @@   @@@@@@@@@@@@  @@        %@@             @    */
+/*    @@                                                                                                  @@    */
+/*     @@                                                                                                @@     */
+/*      @@              @@                @@                            @@                @@            @@      */
+/*        @@             @@               @@                            @@               @@           @@        */
+/*          @@            @@               @@                          @@               @@          @@          */
+/*            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@            */
+/*               @@@         @@@            @@                        @@            @@         @@@              */
+/*                  @@@         @@           @@                      @@          @@@        @@@                 */
+/*                     @@@@@      @@@          @@                  @@         @@@      @@@@@                    */
+/*                          @@@@@@    @@@        @@              @@        @@@   @@@@@@                         */
+/*                               @@@@@@@@@@@@@@    @@          @@    @@@@@@@@@@@@@                              */
+/*                                            @@@@@@@@@@@@@@@@@@@@@@@@                                          */
+/*                                                                                                              */
+/*                                               UNITED IN 𝙎𝙀𝙑𝙀𝙍𝘼𝙉𝘾𝙀                                            */
+
+/*
+   * Aether tokenized template for shared CSS color variables.
+   * Primary names: color0-color15 (matches colors.toml)
+*/
+
+  /* ANSI palette */
+  @define-color color0 #08131c;
+  @define-color color1 #4d86b0;
+  @define-color color2 #5e95bc;
+  @define-color color3 #6fa4c9;
+  @define-color color4 #6fb8e3;
+  @define-color color5 #8bc9eb;
+  @define-color color6 #b4e4f6;
+  @define-color color7 #d6e2ee;
+  @define-color color8 #304860;
+  @define-color color9 #73a6cb;
+  @define-color color10 #86b7d8;
+  @define-color color11 #9dcae5;
+  @define-color color12 #f2fcff;
+  @define-color color13 #b1d8ee;
+  @define-color color14 #d1eef8;
+  @define-color color15 #ffffff;
+
+  /* Optional semantic aliases */
+  @define-color background #08131c;
+  @define-color foreground #d6e2ee;
+  @define-color accent #6fb8e3;
+  @define-color selection_bg #4d9ed3;
+  @define-color selection_fg #071018;
+  @define-color cursor #f2fcff;
