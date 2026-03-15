@@ -56,9 +56,12 @@ Employees are advised not to speculate on the meaning of the numbers.
 
 ## Wallpapers
 
-| | |
-| --- | --- |
-| ![](backgrounds/01-united-in-severance.jpg) | ![](backgrounds/wallhaven-wep8gq.png) |
+<table>
+  <tr>
+    <td><img src="backgrounds/01-united-in-severance.jpg" alt="United in Severance wallpaper" /></td>
+    <td><img src="backgrounds/wallhaven-wep8gq.png" alt="Lumon exterior wallpaper" /></td>
+  </tr>
+</table>
 
 ## Requirements
 
