@@ -33,7 +33,8 @@
 #                                          ＵＮＩＴＥＤ ＩＮ 𝙎𝙀𝙑𝙀𝙍𝘼𝙉𝘾𝙀                                            
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#1b2d40"
+# theme[main_bg]=""
+theme_background=false
 
 # Main text color
 theme[main_fg]="#c7d2de"
