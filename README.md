@@ -59,7 +59,8 @@ Employees are advised not to speculate on the meaning of the numbers.
 <table>
   <tr>
     <td><img src="backgrounds/01-united-in-severance.jpg" alt="United in Severance wallpaper" /></td>
-    <td><img src="backgrounds/wallhaven-wep8gq.png" alt="Lumon exterior wallpaper" /></td>
+    <td><img src="backgrounds/02-branch-501.png" alt="Branch 501 wallpaper" /></td>
+    <td><img src="backgrounds/03-mark-scout.jpg" alt="Mark Scout wallpaper" /></td>
   </tr>
 </table>
 
