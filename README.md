@@ -40,13 +40,19 @@ For approved employees, the local launcher is:
 
 `Lumon Macrodata Refiner.desktop`
 
-Standard deployment path:
+Standard deployment path after running the bundled installer:
 
 ```text
 ~/.local/share/applications/Lumon Macrodata Refiner.desktop
 ```
 
-This launcher opens the Lumon Macrodata Refiner web application through `omarchy-launch-webapp`, allowing refiners to begin their assigned duties in a properly sanctioned browser shell.
+To install the bundled launcher and icon:
+
+```bash
+cd ~/.config/omarchy/themes/lumon && ./install-lumon-launcher.sh
+```
+
+This installer copies the bundled desktop entry and icon into Omarchy's standard local applications paths. The launcher then opens the Lumon Macrodata Refiner web application through `omarchy-launch-webapp`, allowing refiners to begin their assigned duties in a properly sanctioned browser shell.
 
 If your workstation has received the launcher, open your application launcher and search for:
 
@@ -69,15 +75,15 @@ Employees are advised not to speculate on the meaning of the numbers.
 - A Hyprland-based Omarchy setup
 - A terminal with support for theme import
 - A healthy respect for fluorescent blue-white contrast
-- Optional: the bundled `Lumon Macrodata Refiner.desktop` launcher for full workplace immersion
+- Optional: run `install-lumon-launcher.sh` to install the bundled launcher for full workplace immersion
 
 ## Wellness Notes
 
-- This README is written in-character and is not an official Lumon Industries publication.
+- This README is not an official Lumon Industries publication.
 - The theme itself is real.
 - Your outie approved this installation.
 
 ## Attribution
 
 - Inspired by the visual language of *Severance*
-- Omarchy theme structure and install flow by the Omarchy ecosystem
+- Omarchy theme structure and install flow by the Omarchy theme ecosystem
