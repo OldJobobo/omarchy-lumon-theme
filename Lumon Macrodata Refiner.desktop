@@ -5,5 +5,5 @@ Comment=Lumon Macrodata Refiner
 Exec=omarchy-launch-webapp https://passi.design/lab/lumon/?source=post_page-----2ba59fccbee9---------------------------------------
 Terminal=false
 Type=Application
-Icon=/home/oldjobobo/.local/share/applications/icons/Lumon Macrodata Refiner.png
+Icon=__ICON_PATH__
 StartupNotify=true

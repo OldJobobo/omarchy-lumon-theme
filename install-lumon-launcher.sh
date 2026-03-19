@@ -92,7 +92,7 @@ done
 mkdir -p "$TARGET_APPS_DIR" "$TARGET_ICONS_DIR"
 
 cp -f "$SOURCE_ICON" "$TARGET_ICON"
-cp -f "$SOURCE_DESKTOP" "$TARGET_DESKTOP"
+sed "s|^Icon=.*$|Icon=$TARGET_ICON|" "$SOURCE_DESKTOP" > "$TARGET_DESKTOP"
 chmod +x "$TARGET_DESKTOP"
 
 if command -v update-desktop-database >/dev/null 2>&1; then
